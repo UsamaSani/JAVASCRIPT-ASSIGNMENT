@@ -1,0 +1,9 @@
+.f-para{
+    display: flex;
+    margin: 2rem;
+    align-items: center;
+}
+.f-para p{
+    font-size: 1.8rem;
+    margin: 1rem;
+}

@@ -1,0 +1,14 @@
+form{
+    margin: 2rem;
+}
+
+form fieldset{
+    margin: 1rem;
+    text-align: center;
+    padding: 2rem;
+}
+
+.map{
+    margin: 2rem;
+    padding: 2rem;
+}

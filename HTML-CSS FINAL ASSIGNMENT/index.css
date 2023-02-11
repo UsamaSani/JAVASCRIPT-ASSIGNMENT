@@ -1,0 +1,64 @@
+*{
+    margin: 0rem;
+    padding: 0;
+}
+header{
+    margin: 2rem;
+    background-color: lightseagreen;
+    text-align: center;
+    display: flex;
+    padding: 2rem;
+    border-radius: 3rem;
+    align-items: center;
+}
+.navbar-a{
+    text-decoration: none;
+    font-family: impact;
+    color: black;
+    margin: 1rem;
+    background-color: green;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+.navbar-a:hover{
+    color: green;
+    background-color: white;
+}
+.M-heading{
+    text-align: center;
+    color: green;
+    margin-right: 6rem;
+    font-family: impact; 
+    background-color: aliceblue;
+    padding: 2rem;
+    border-radius: 10rem;
+    font-size: 3rem;
+    text-shadow: 0.2rem 0.2rem grey;
+}
+span{
+    color: black;
+}
+
+
+
+
+.img-adjust{
+    margin: 2rem;
+    padding: 2rem;
+}
+
+.para{
+    margin: 3rem;
+}
+.para p{
+    font-size: 3rem;
+}
+
+footer{
+    text-align: center;
+    background-color: lightseagreen;
+    font-size: 2rem;
+    margin: 3rem;
+    padding:0.9rem;
+    border-radius: 3rem;
+}
